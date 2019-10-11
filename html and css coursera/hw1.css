@@ -1,0 +1,30 @@
+header{
+    background: #B3B3B4;
+}
+h1
+{
+    background-color: #B3B3B4;
+    text-align: center;
+    font-variant:small-caps;
+    color: #FFFFFF;
+    font-size: 250%;
+}
+a{
+    font-variant:normal;
+    color:#000000;
+    background-color: #C0C0C0;
+}
+aside{
+    visibility:collapse;
+    display:none;
+}
+section{
+
+  background-color: #808080;
+    clear: both;
+}
+h2{
+    font-variant: small-caps;
+    color: #00008B ;
+    font-size: 200%;
+}
